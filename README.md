@@ -6,7 +6,7 @@ Automated daily points tracking, user profile updates, and Options to view data 
 basis for enhanced user insights.
 
 # DEMO:
-![VID_20230919_17-1695123268093](https://github.com/Prathamkumar18/SteadyStreakFrontend/assets/96865753/a9eca9f3-4280-4ef3-9707-d76778a2165f)
+https://github.com/Prathamkumar18/SteadyStreakFrontend/assets/96865753/65beb199-ad33-463b-9051-f2d62de1afc5
 
 # 2.) Uni_talk
 • It is an online meeting app with , audio, and real-time chat features during the meeting.                                                                              
